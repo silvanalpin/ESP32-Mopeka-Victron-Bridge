@@ -1,5 +1,5 @@
 # ESP32-Mopeka-Victron-Bridge
-Eine Bridge, die Mopeka pro 200V Bluetooth Sensoren ausliest, die Daten filtert und via MQTT direkt in das Victron Energy Venus OS (Cerbo GX) einspeist, damit sie dort als System-Tanks erscheinen.
+Eine Bridge, die Mopeka pro 200B Bluetooth Sensoren ausliest, die Daten filtert und via MQTT direkt in das Victron Energy Venus OS (Cerbo GX) einspeist, damit sie dort als System-Tanks erscheinen.
 
 Features:
 
